@@ -14,8 +14,8 @@ Uygulama **iki sayfadan** oluşmaktadır:
 2️⃣ **WebSocket Sayfası** – WebSocket bağlantısı üzerinden mesaj göndermeyi ve geri almayı simüle eden bir ekran. Örnek mesajlardan birine basılarak mesaj gönderimi yapılabilir.  
 
 ### 📸 Ekran Görüntüleri  
-🚧  ![websocket](https://github.com/user-attachments/assets/0bfb137e-c7ef-4ac9-bef6-ff0f36f0fab2)
-![restful api](https://github.com/user-attachments/assets/ba89f5c6-a3cd-437e-a3be-3263c8674e00)  🚧
 
+<img src="https://github.com/user-attachments/assets/0bfb137e-c7ef-4ac9-bef6-ff0f36f0fab2" width="100"/>
+<img src="https://github.com/user-attachments/assets/ba89f5c6-a3cd-437e-a3be-3263c8674e00" width="100"/>
 
 Bu proje, **ağ tabanlı uygulamalar geliştirme sürecinde RESTful API ve WebSocket kullanımı konusundaki bilgileri derinleştirmek** için tasarlandı. 💡
