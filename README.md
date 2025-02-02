@@ -15,7 +15,7 @@ Uygulama **iki sayfadan** oluşmaktadır:
 
 ### 📸 Ekran Görüntüleri  
 
-<img src="https://github.com/user-attachments/assets/0bfb137e-c7ef-4ac9-bef6-ff0f36f0fab2" width="200"/>
 <img src="https://github.com/user-attachments/assets/ba89f5c6-a3cd-437e-a3be-3263c8674e00" width="200"/>
+<img src="https://github.com/user-attachments/assets/0bfb137e-c7ef-4ac9-bef6-ff0f36f0fab2" width="200"/>
 
 Bu proje, **ağ tabanlı uygulamalar geliştirme sürecinde RESTful API ve WebSocket kullanımı konusundaki bilgileri derinleştirmek** için tasarlandı. 💡
